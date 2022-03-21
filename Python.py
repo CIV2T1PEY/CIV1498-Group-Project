@@ -25,11 +25,22 @@ US_President = pd.read_csv('US_President.csv')
 US_President['start date'] = pd.to_datetime(US_President['From'])
 
 US_President['end date'] = pd.to_datetime(US_President['To'],errors='coerce')  # the last end date is current, which is a string, replace it with NAT
-US_President['end date'] = US_President['end date'].fillna(
-pd.to_datetime('2021-01-20'))  # Replace NAT with the googled last day of Trump's presidency term
+US_President['end date'] = US_President['end date'].fillna(pd.to_datetime('2021-01-20'))  # Replace NAT with the googled last day of Trump's presidency term
 
 #----------------Need to drop the dollar under some columns in SBA_Loan and convert the type to float
+def clean_currency(x):
+    """ If the value is a string, then remove currency symbol and delimiters
+    otherwise, the value is numeric and can be converted
+    """
+    if isinstance(x, str):
+        return x.replace('$', '').replace(',', '')
+    return x
 
+SBA_Loan['DisbursementGross'] = SBA_Loan['DisbursementGross'].apply(clean_currency).astype('float')
+SBA_Loan['ChgOffPrinGr'] = SBA_Loan['ChgOffPrinGr'].apply(clean_currency).astype('float')
+SBA_Loan['GrAppv'] = SBA_Loan['GrAppv'].apply(clean_currency).astype('float')
+SBA_Loan['SBA_Appv'] = SBA_Loan['SBA_Appv'].apply(clean_currency).astype('float')
+print(SBA_Loan['DisbursementGross'])
 
 # --------------Create a function for merging based timestamp between two dates, run time is long, optimization could occur
 def merge_on_date(df_A, df_B, df_A_column, df_B_column):
@@ -45,7 +56,7 @@ def merge_on_date(df_A, df_B, df_A_column, df_B_column):
 #---------------Testing the function above
 #SBA_Loan_TX = merge_on_date(SBA_Loan_TX,US_President,'President','President')
 SBA_Loan_TX = merge_on_date(SBA_Loan_TX,US_President,'President Party','Party')
-#print(SBA_Loan_TX.head())
+print(SBA_Loan_TX.head())
 #print(SBA_Loan_TX.info())
 
 #------------------Visualization
