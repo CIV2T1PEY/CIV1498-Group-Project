@@ -1,2 +1,0 @@
-print('testtesttest')
-print('secondpush')
