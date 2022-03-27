@@ -1,0 +1,766 @@
+Year,State,Party
+1964,Alabama,R
+1968,Alabama,AI
+1972,Alabama,R
+1976,Alabama,D
+1980,Alabama,R
+1984,Alabama,R
+1988,Alabama,R
+1992,Alabama,R
+1996,Alabama,R
+2000,Alabama,R
+2004,Alabama,R
+2008,Alabama,R
+2012,Alabama,R
+2016,Alabama,R
+2020,Alabama,R
+1964,Alaska,D
+1968,Alaska,R
+1972,Alaska,R
+1976,Alaska,R
+1980,Alaska,R
+1984,Alaska,R
+1988,Alaska,R
+1992,Alaska,R
+1996,Alaska,R
+2000,Alaska,R
+2004,Alaska,R
+2008,Alaska,R
+2012,Alaska,R
+2016,Alaska,R
+2020,Alaska,R
+1964,Arizona,R
+1968,Arizona,R
+1972,Arizona,R
+1976,Arizona,R
+1980,Arizona,R
+1984,Arizona,R
+1988,Arizona,R
+1992,Arizona,R
+1996,Arizona,D
+2000,Arizona,R
+2004,Arizona,R
+2008,Arizona,R
+2012,Arizona,R
+2016,Arizona,R
+2020,Arizona,D
+1964,Arkansas,D
+1968,Arkansas,AI
+1972,Arkansas,R
+1976,Arkansas,D
+1980,Arkansas,R
+1984,Arkansas,R
+1988,Arkansas,R
+1992,Arkansas,D
+1996,Arkansas,D
+2000,Arkansas,R
+2004,Arkansas,R
+2008,Arkansas,R
+2012,Arkansas,R
+2016,Arkansas,R
+2020,Arkansas,R
+1964,California,D
+1968,California,R
+1972,California,R
+1976,California,R
+1980,California,R
+1984,California,R
+1988,California,R
+1992,California,D
+1996,California,D
+2000,California,D
+2004,California,D
+2008,California,D
+2012,California,D
+2016,California,D
+2020,California,D
+1964,Colorado,D
+1968,Colorado,R
+1972,Colorado,R
+1976,Colorado,R
+1980,Colorado,R
+1984,Colorado,R
+1988,Colorado,R
+1992,Colorado,D
+1996,Colorado,R
+2000,Colorado,R
+2004,Colorado,R
+2008,Colorado,D
+2012,Colorado,D
+2016,Colorado,D
+2020,Colorado,D
+1964,Connecticut,D
+1968,Connecticut,D
+1972,Connecticut,R
+1976,Connecticut,R
+1980,Connecticut,R
+1984,Connecticut,R
+1988,Connecticut,R
+1992,Connecticut,D
+1996,Connecticut,D
+2000,Connecticut,D
+2004,Connecticut,D
+2008,Connecticut,D
+2012,Connecticut,D
+2016,Connecticut,D
+2020,Connecticut,D
+1964,D.C.,D
+1968,D.C.,D
+1972,D.C.,D
+1976,D.C.,D
+1980,D.C.,D
+1984,D.C.,D
+1988,D.C.,D
+1992,D.C.,D
+1996,D.C.,D
+2000,D.C.,D
+2004,D.C.,D
+2008,D.C.,D
+2012,D.C.,D
+2016,D.C.,D
+2020,D.C.,D
+1964,Delaware,D
+1968,Delaware,R
+1972,Delaware,R
+1976,Delaware,D
+1980,Delaware,R
+1984,Delaware,R
+1988,Delaware,R
+1992,Delaware,D
+1996,Delaware,D
+2000,Delaware,D
+2004,Delaware,D
+2008,Delaware,D
+2012,Delaware,D
+2016,Delaware,D
+2020,Delaware,D
+1964,Florida,D
+1968,Florida,R
+1972,Florida,R
+1976,Florida,D
+1980,Florida,R
+1984,Florida,R
+1988,Florida,R
+1992,Florida,R
+1996,Florida,D
+2000,Florida,R
+2004,Florida,R
+2008,Florida,D
+2012,Florida,D
+2016,Florida,R
+2020,Florida,R
+1964,Georgia,R
+1968,Georgia,AI
+1972,Georgia,R
+1976,Georgia,D
+1980,Georgia,D
+1984,Georgia,R
+1988,Georgia,R
+1992,Georgia,D
+1996,Georgia,R
+2000,Georgia,R
+2004,Georgia,R
+2008,Georgia,R
+2012,Georgia,R
+2016,Georgia,R
+2020,Georgia,D
+1964,Hawaii,D
+1968,Hawaii,D
+1972,Hawaii,R
+1976,Hawaii,D
+1980,Hawaii,D
+1984,Hawaii,R
+1988,Hawaii,D
+1992,Hawaii,D
+1996,Hawaii,D
+2000,Hawaii,D
+2004,Hawaii,D
+2008,Hawaii,D
+2012,Hawaii,D
+2016,Hawaii,D
+2020,Hawaii,D
+1964,Idaho,D
+1968,Idaho,R
+1972,Idaho,R
+1976,Idaho,R
+1980,Idaho,R
+1984,Idaho,R
+1988,Idaho,R
+1992,Idaho,R
+1996,Idaho,R
+2000,Idaho,R
+2004,Idaho,R
+2008,Idaho,R
+2012,Idaho,R
+2016,Idaho,R
+2020,Idaho,R
+1964,Illinois,D
+1968,Illinois,R
+1972,Illinois,R
+1976,Illinois,R
+1980,Illinois,R
+1984,Illinois,R
+1988,Illinois,R
+1992,Illinois,D
+1996,Illinois,D
+2000,Illinois,D
+2004,Illinois,D
+2008,Illinois,D
+2012,Illinois,D
+2016,Illinois,D
+2020,Illinois,D
+1964,Indiana,D
+1968,Indiana,R
+1972,Indiana,R
+1976,Indiana,R
+1980,Indiana,R
+1984,Indiana,R
+1988,Indiana,R
+1992,Indiana,R
+1996,Indiana,R
+2000,Indiana,R
+2004,Indiana,R
+2008,Indiana,D
+2012,Indiana,R
+2016,Indiana,R
+2020,Indiana,R
+1964,Iowa,D
+1968,Iowa,R
+1972,Iowa,R
+1976,Iowa,R
+1980,Iowa,R
+1984,Iowa,R
+1988,Iowa,D
+1992,Iowa,D
+1996,Iowa,D
+2000,Iowa,D
+2004,Iowa,R
+2008,Iowa,D
+2012,Iowa,D
+2016,Iowa,R
+2020,Iowa,R
+1964,Kansas,D
+1968,Kansas,R
+1972,Kansas,R
+1976,Kansas,R
+1980,Kansas,R
+1984,Kansas,R
+1988,Kansas,R
+1992,Kansas,R
+1996,Kansas,R
+2000,Kansas,R
+2004,Kansas,R
+2008,Kansas,R
+2012,Kansas,R
+2016,Kansas,R
+2020,Kansas,R
+1964,Kentucky,D
+1968,Kentucky,R
+1972,Kentucky,R
+1976,Kentucky,D
+1980,Kentucky,R
+1984,Kentucky,R
+1988,Kentucky,R
+1992,Kentucky,D
+1996,Kentucky,D
+2000,Kentucky,R
+2004,Kentucky,R
+2008,Kentucky,R
+2012,Kentucky,R
+2016,Kentucky,R
+2020,Kentucky,R
+1964,Louisiana,R
+1968,Louisiana,AI
+1972,Louisiana,R
+1976,Louisiana,D
+1980,Louisiana,R
+1984,Louisiana,R
+1988,Louisiana,R
+1992,Louisiana,D
+1996,Louisiana,D
+2000,Louisiana,R
+2004,Louisiana,R
+2008,Louisiana,R
+2012,Louisiana,R
+2016,Louisiana,R
+2020,Louisiana,R
+1964,Maine,D
+1968,Maine,D
+1972,Maine,R
+1976,Maine,R
+1980,Maine,R
+1984,Maine,R
+1988,Maine,R
+1992,Maine,D
+1996,Maine,D
+2000,Maine,D
+2004,Maine,D
+2008,Maine,D
+2012,Maine,D
+2016,Maine,D
+2020,Maine,D
+1964,Maryland,D
+1968,Maryland,D
+1972,Maryland,R
+1976,Maryland,D
+1980,Maryland,D
+1984,Maryland,R
+1988,Maryland,R
+1992,Maryland,D
+1996,Maryland,D
+2000,Maryland,D
+2004,Maryland,D
+2008,Maryland,D
+2012,Maryland,D
+2016,Maryland,D
+2020,Maryland,D
+1964,Massachusetts,D
+1968,Massachusetts,D
+1972,Massachusetts,D
+1976,Massachusetts,D
+1980,Massachusetts,R
+1984,Massachusetts,R
+1988,Massachusetts,D
+1992,Massachusetts,D
+1996,Massachusetts,D
+2000,Massachusetts,D
+2004,Massachusetts,D
+2008,Massachusetts,D
+2012,Massachusetts,D
+2016,Massachusetts,D
+2020,Massachusetts,D
+1964,Michigan,D
+1968,Michigan,D
+1972,Michigan,R
+1976,Michigan,R
+1980,Michigan,R
+1984,Michigan,R
+1988,Michigan,R
+1992,Michigan,D
+1996,Michigan,D
+2000,Michigan,D
+2004,Michigan,D
+2008,Michigan,D
+2012,Michigan,D
+2016,Michigan,R
+2020,Michigan,D
+1964,Minnesota,D
+1968,Minnesota,D
+1972,Minnesota,R
+1976,Minnesota,D
+1980,Minnesota,D
+1984,Minnesota,D
+1988,Minnesota,D
+1992,Minnesota,D
+1996,Minnesota,D
+2000,Minnesota,D
+2004,Minnesota,D
+2008,Minnesota,D
+2012,Minnesota,D
+2016,Minnesota,D
+2020,Minnesota,D
+1964,Mississippi,R
+1968,Mississippi,AI
+1972,Mississippi,R
+1976,Mississippi,D
+1980,Mississippi,R
+1984,Mississippi,R
+1988,Mississippi,R
+1992,Mississippi,R
+1996,Mississippi,R
+2000,Mississippi,R
+2004,Mississippi,R
+2008,Mississippi,R
+2012,Mississippi,R
+2016,Mississippi,R
+2020,Mississippi,R
+1964,Missouri,D
+1968,Missouri,R
+1972,Missouri,R
+1976,Missouri,D
+1980,Missouri,R
+1984,Missouri,R
+1988,Missouri,R
+1992,Missouri,D
+1996,Missouri,D
+2000,Missouri,R
+2004,Missouri,R
+2008,Missouri,R
+2012,Missouri,R
+2016,Missouri,R
+2020,Missouri,R
+1964,Montana,D
+1968,Montana,R
+1972,Montana,R
+1976,Montana,R
+1980,Montana,R
+1984,Montana,R
+1988,Montana,R
+1992,Montana,D
+1996,Montana,R
+2000,Montana,R
+2004,Montana,R
+2008,Montana,R
+2012,Montana,R
+2016,Montana,R
+2020,Montana,R
+1964,Nebraska,D
+1968,Nebraska,R
+1972,Nebraska,R
+1976,Nebraska,R
+1980,Nebraska,R
+1984,Nebraska,R
+1988,Nebraska,R
+1992,Nebraska,R
+1996,Nebraska,R
+2000,Nebraska,R
+2004,Nebraska,R
+2008,Nebraska,R
+2012,Nebraska,R
+2016,Nebraska,R
+2020,Nebraska,R
+1964,Nevada,D
+1968,Nevada,R
+1972,Nevada,R
+1976,Nevada,R
+1980,Nevada,R
+1984,Nevada,R
+1988,Nevada,R
+1992,Nevada,D
+1996,Nevada,D
+2000,Nevada,R
+2004,Nevada,R
+2008,Nevada,D
+2012,Nevada,D
+2016,Nevada,D
+2020,Nevada,D
+1964,New Hampshire,D
+1968,New Hampshire,R
+1972,New Hampshire,R
+1976,New Hampshire,R
+1980,New Hampshire,R
+1984,New Hampshire,R
+1988,New Hampshire,R
+1992,New Hampshire,D
+1996,New Hampshire,D
+2000,New Hampshire,R
+2004,New Hampshire,D
+2008,New Hampshire,D
+2012,New Hampshire,D
+2016,New Hampshire,D
+2020,New Hampshire,D
+1964,New Jersey,D
+1968,New Jersey,R
+1972,New Jersey,R
+1976,New Jersey,R
+1980,New Jersey,R
+1984,New Jersey,R
+1988,New Jersey,R
+1992,New Jersey,D
+1996,New Jersey,D
+2000,New Jersey,D
+2004,New Jersey,D
+2008,New Jersey,D
+2012,New Jersey,D
+2016,New Jersey,D
+2020,New Jersey,D
+1964,New Mexico,D
+1968,New Mexico,R
+1972,New Mexico,R
+1976,New Mexico,R
+1980,New Mexico,R
+1984,New Mexico,R
+1988,New Mexico,R
+1992,New Mexico,D
+1996,New Mexico,D
+2000,New Mexico,D
+2004,New Mexico,R
+2008,New Mexico,D
+2012,New Mexico,D
+2016,New Mexico,D
+2020,New Mexico,D
+1964,New York,D
+1968,New York,D
+1972,New York,R
+1976,New York,D
+1980,New York,R
+1984,New York,R
+1988,New York,D
+1992,New York,D
+1996,New York,D
+2000,New York,D
+2004,New York,D
+2008,New York,D
+2012,New York,D
+2016,New York,D
+2020,New York,D
+1964,North Carolina,D
+1968,North Carolina,R
+1972,North Carolina,R
+1976,North Carolina,D
+1980,North Carolina,R
+1984,North Carolina,R
+1988,North Carolina,R
+1992,North Carolina,R
+1996,North Carolina,R
+2000,North Carolina,R
+2004,North Carolina,R
+2008,North Carolina,D
+2012,North Carolina,R
+2016,North Carolina,R
+2020,North Carolina,R
+1964,North Dakota,D
+1968,North Dakota,R
+1972,North Dakota,R
+1976,North Dakota,R
+1980,North Dakota,R
+1984,North Dakota,R
+1988,North Dakota,R
+1992,North Dakota,R
+1996,North Dakota,R
+2000,North Dakota,R
+2004,North Dakota,R
+2008,North Dakota,R
+2012,North Dakota,R
+2016,North Dakota,R
+2020,North Dakota,R
+1964,Ohio,D
+1968,Ohio,R
+1972,Ohio,R
+1976,Ohio,D
+1980,Ohio,R
+1984,Ohio,R
+1988,Ohio,R
+1992,Ohio,D
+1996,Ohio,D
+2000,Ohio,R
+2004,Ohio,R
+2008,Ohio,D
+2012,Ohio,D
+2016,Ohio,R
+2020,Ohio,R
+1964,Oklahoma,D
+1968,Oklahoma,R
+1972,Oklahoma,R
+1976,Oklahoma,R
+1980,Oklahoma,R
+1984,Oklahoma,R
+1988,Oklahoma,R
+1992,Oklahoma,R
+1996,Oklahoma,R
+2000,Oklahoma,R
+2004,Oklahoma,R
+2008,Oklahoma,R
+2012,Oklahoma,R
+2016,Oklahoma,R
+2020,Oklahoma,R
+1964,Oregon,D
+1968,Oregon,R
+1972,Oregon,R
+1976,Oregon,R
+1980,Oregon,R
+1984,Oregon,R
+1988,Oregon,D
+1992,Oregon,D
+1996,Oregon,D
+2000,Oregon,D
+2004,Oregon,D
+2008,Oregon,D
+2012,Oregon,D
+2016,Oregon,D
+2020,Oregon,D
+1964,Pennsylvania,D
+1968,Pennsylvania,D
+1972,Pennsylvania,R
+1976,Pennsylvania,D
+1980,Pennsylvania,R
+1984,Pennsylvania,R
+1988,Pennsylvania,R
+1992,Pennsylvania,D
+1996,Pennsylvania,D
+2000,Pennsylvania,D
+2004,Pennsylvania,D
+2008,Pennsylvania,D
+2012,Pennsylvania,D
+2016,Pennsylvania,R
+2020,Pennsylvania,D
+1964,Rhode Island,D
+1968,Rhode Island,D
+1972,Rhode Island,R
+1976,Rhode Island,D
+1980,Rhode Island,D
+1984,Rhode Island,R
+1988,Rhode Island,D
+1992,Rhode Island,D
+1996,Rhode Island,D
+2000,Rhode Island,D
+2004,Rhode Island,D
+2008,Rhode Island,D
+2012,Rhode Island,D
+2016,Rhode Island,D
+2020,Rhode Island,D
+1964,South Carolina,R
+1968,South Carolina,R
+1972,South Carolina,R
+1976,South Carolina,D
+1980,South Carolina,R
+1984,South Carolina,R
+1988,South Carolina,R
+1992,South Carolina,R
+1996,South Carolina,R
+2000,South Carolina,R
+2004,South Carolina,R
+2008,South Carolina,R
+2012,South Carolina,R
+2016,South Carolina,R
+2020,South Carolina,R
+1964,South Dakota,D
+1968,South Dakota,R
+1972,South Dakota,R
+1976,South Dakota,R
+1980,South Dakota,R
+1984,South Dakota,R
+1988,South Dakota,R
+1992,South Dakota,R
+1996,South Dakota,R
+2000,South Dakota,R
+2004,South Dakota,R
+2008,South Dakota,R
+2012,South Dakota,R
+2016,South Dakota,R
+2020,South Dakota,R
+1964,Tennessee,D
+1968,Tennessee,R
+1972,Tennessee,R
+1976,Tennessee,D
+1980,Tennessee,R
+1984,Tennessee,R
+1988,Tennessee,R
+1992,Tennessee,D
+1996,Tennessee,D
+2000,Tennessee,R
+2004,Tennessee,R
+2008,Tennessee,R
+2012,Tennessee,R
+2016,Tennessee,R
+2020,Tennessee,R
+1964,Texas,D
+1968,Texas,D
+1972,Texas,R
+1976,Texas,D
+1980,Texas,R
+1984,Texas,R
+1988,Texas,R
+1992,Texas,R
+1996,Texas,R
+2000,Texas,R
+2004,Texas,R
+2008,Texas,R
+2012,Texas,R
+2016,Texas,R
+2020,Texas,R
+1964,Utah,D
+1968,Utah,R
+1972,Utah,R
+1976,Utah,R
+1980,Utah,R
+1984,Utah,R
+1988,Utah,R
+1992,Utah,R
+1996,Utah,R
+2000,Utah,R
+2004,Utah,R
+2008,Utah,R
+2012,Utah,R
+2016,Utah,R
+2020,Utah,R
+1964,Vermont,D
+1968,Vermont,R
+1972,Vermont,R
+1976,Vermont,R
+1980,Vermont,R
+1984,Vermont,R
+1988,Vermont,R
+1992,Vermont,D
+1996,Vermont,D
+2000,Vermont,D
+2004,Vermont,D
+2008,Vermont,D
+2012,Vermont,D
+2016,Vermont,D
+2020,Vermont,D
+1964,Virginia,D
+1968,Virginia,R
+1972,Virginia,R
+1976,Virginia,R
+1980,Virginia,R
+1984,Virginia,R
+1988,Virginia,R
+1992,Virginia,R
+1996,Virginia,R
+2000,Virginia,R
+2004,Virginia,R
+2008,Virginia,D
+2012,Virginia,D
+2016,Virginia,D
+2020,Virginia,D
+1964,Washington,D
+1968,Washington,D
+1972,Washington,R
+1976,Washington,R
+1980,Washington,R
+1984,Washington,R
+1988,Washington,D
+1992,Washington,D
+1996,Washington,D
+2000,Washington,D
+2004,Washington,D
+2008,Washington,D
+2012,Washington,D
+2016,Washington,D
+2020,Washington,D
+1964,West Virginia,D
+1968,West Virginia,D
+1972,West Virginia,R
+1976,West Virginia,D
+1980,West Virginia,D
+1984,West Virginia,R
+1988,West Virginia,D
+1992,West Virginia,D
+1996,West Virginia,D
+2000,West Virginia,R
+2004,West Virginia,R
+2008,West Virginia,R
+2012,West Virginia,R
+2016,West Virginia,R
+2020,West Virginia,R
+1964,Wisconsin,D
+1968,Wisconsin,R
+1972,Wisconsin,R
+1976,Wisconsin,D
+1980,Wisconsin,R
+1984,Wisconsin,R
+1988,Wisconsin,D
+1992,Wisconsin,D
+1996,Wisconsin,D
+2000,Wisconsin,D
+2004,Wisconsin,D
+2008,Wisconsin,D
+2012,Wisconsin,D
+2016,Wisconsin,R
+2020,Wisconsin,D
+1964,Wyoming,D
+1968,Wyoming,R
+1972,Wyoming,R
+1976,Wyoming,R
+1980,Wyoming,R
+1984,Wyoming,R
+1988,Wyoming,R
+1992,Wyoming,R
+1996,Wyoming,R
+2000,Wyoming,R
+2004,Wyoming,R
+2008,Wyoming,R
+2012,Wyoming,R
+2016,Wyoming,R
+2020,Wyoming,R
