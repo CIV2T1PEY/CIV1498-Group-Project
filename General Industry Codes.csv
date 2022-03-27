@@ -4,7 +4,10 @@
 22,Utilities
 23,Construction
 31,Manufacturing
+32,Manufacturing
+33,Manufacturing
 41,Wholesale trade
+42,Wholesale trade
 44,Retail trade
 45,Retail trade
 48,Transportation and warehousing
@@ -21,3 +24,4 @@
 72,Accommodation and food services
 81,Other services (except public administration)
 91,Public administration
+92,Public administration
