@@ -24,7 +24,6 @@ print(SBA_Loan['ApprovalDate'].values.max())  #check the latest date, output = 2
 
 
 US_President['start date'] = pd.to_datetime(US_President['From'])
-
 US_President['end date'] = pd.to_datetime(US_President['To'],errors='coerce')  # the last end date is current, which is a string, replace it with NAT
 US_President['end date'] = US_President['end date'].fillna(pd.to_datetime('2021-01-20'))  # Replace NAT with the googled last day of Trump's presidency term
 
