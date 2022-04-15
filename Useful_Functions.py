@@ -30,8 +30,9 @@ def merge_on_date(df_A, df_B, df_A_column, df_B_column):
 def fix_year(series_A, series_B):
     empty_list = []
     for index, value in enumerate(series_A):
-        k = value.replace(year = int(series_B[index]))
-        empty_list.append(k)
+        if int(value.year) > 2022:
+            k = value.replace(year = int(series_B[index]))
+            empty_list.append(k)
     series_A = empty_list
     return series_A
 
@@ -269,3 +270,4 @@ def word_detector(words, texts):
     df = pd.DataFrame(row_to_df,columns=words)
     df = df.set_index(texts.index)
     return df
+
